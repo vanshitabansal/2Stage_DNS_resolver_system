@@ -10,11 +10,17 @@ based on TCP sockets. The aim is to implement a simple 2 stage DNS Resolver Syst
 List of files submitted:
 
 • dnsCllient.cpp : contains client executable code
+
 • dnsServer.cpp : contains server executable code
+
 • proxyServer.cpp : contains proxy server executable code
+
 • Report.docx : report of submission
+
 • allheaders.h : contains header files used
+
 • proxy_cache.txt : contains proxy cache
+
 • database_mappings.txt : contains dns mappings
 
 To Run:
