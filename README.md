@@ -1,13 +1,13 @@
 # 2Stage-DNS-Resolver-System
 Course Project for CS558 
 -----------------------------------------------------------------------------------------------------------
-Problem Statement:
+###  Problem Statement:
 
 In this application, you require implementing three C++ programs, namely Client, Proxy Server
 (which will act both as client and server) and DNS Server, and they communicate with each other
 based on TCP sockets. The aim is to implement a simple 2 stage DNS Resolver System.
 
-List of files submitted:
+### List of files submitted:
 
 • dnsCllient.cpp : contains client executable code
 
@@ -23,7 +23,7 @@ List of files submitted:
 
 • database_mappings.txt : contains dns mappings
 
-To Run:
+### To Run:
 
 1. Run DNS Server File providing the port in command line.
 2. Run Proxy Server with port in command line
